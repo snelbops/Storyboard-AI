@@ -1,0 +1,5 @@
+{
+  "name": "StoryBoard AI",
+  "description": "Transform your scripts into visual storyboards. Break down scripts into scenes and generate or edit cinematic storyboard images using Gemini 2.5 Flash models.",
+  "requestFramePermissions": []
+}
